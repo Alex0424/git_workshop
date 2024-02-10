@@ -15,4 +15,6 @@ jag är svenn
 
 <font color="green"> Some green text </font>
 
-Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}
+
+![here is a photo uploaded from terminal](image.pnh)
