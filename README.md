@@ -19,9 +19,14 @@ Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}
 
 [here is a photo uploaded from terminal](image.png)
 
+image.png
+
+(image.png)
+
+
 [google link](https://www.google.com)
 
-[google link in new tab](https://www.google.com){:target="_blank"}
+[Google](https://www.google.com/){:target="_blank"}
 
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
