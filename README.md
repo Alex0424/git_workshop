@@ -2,4 +2,4 @@ hej GRABBAR!
 johannes brache
 ## Johannes
 
-Tänk er någon som verkar gamal i gamet men inte kan någonting
+Tänk er någon som verkar gammal i gamet men inte kan någonting
