@@ -1,3 +1,4 @@
+# Markdown
 hej GRABBAR!
 
 Alex Lindholm
@@ -13,3 +14,5 @@ jag är svenn
 <span style="color: green"> Some green text </span>
 
 <font color="green"> Some green text </font>
+
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
