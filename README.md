@@ -9,3 +9,7 @@ jag är svenn
 **bold text**
 
 *italic text*
+
+<span style="color: green"> Some green text </span>
+
+<font color="green"> Some green text </font>
